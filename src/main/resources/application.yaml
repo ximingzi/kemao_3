@@ -5,4 +5,4 @@ spring.datasource:
    password: root
    
 #server.port: 8088
-server.port: 8080
+server.port: 8088
